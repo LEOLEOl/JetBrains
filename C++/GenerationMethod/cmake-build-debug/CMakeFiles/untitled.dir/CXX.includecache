@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/it_cs/JetBrains/C++/GenerationMethod/Arrangement/Arrangement.cpp
+stdio.h
+-
+iostream
+-
+cstring
+-
+cmath
+-
+

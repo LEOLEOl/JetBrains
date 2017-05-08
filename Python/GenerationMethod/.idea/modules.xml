@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../GenerationMethod/.idea/GenerationMethod.iml" filepath="$PROJECT_DIR$/../GenerationMethod/.idea/GenerationMethod.iml" />
+      <module fileurl="file://E:\it_cs\JetBrains\Python\Combination\.idea\HelloWorld.iml" filepath="E:\it_cs\JetBrains\Python\Combination\.idea\HelloWorld.iml" />
+    </modules>
+  </component>
+</project>
