@@ -27,5 +27,6 @@ public class BinaryGeneration {
             }
         } while (i != 0); // Het cau hinh
         // 10:00
+        //OK OK
     }
 }
