@@ -26,7 +26,6 @@ public class BinaryGeneration {
                 for (int j = i+1; j <= n; ++j) x[j] = 0;
             }
         } while (i != 0); // Het cau hinh
-        //OK
-        // Git Commit Java
+        // 10:00
     }
 }
