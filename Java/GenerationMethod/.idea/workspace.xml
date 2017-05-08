@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4dcc357-ae7e-451e-b25b-f14bfa5781d4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../C++/GenerationMethod/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../C++/GenerationMethod/.idea/workspace.xml" />
-    </list>
-    <list id="93fefd4e-cb1a-4dc6-8725-e94fb5dd2e4f" name="Failed commit: Default" comment="Java Commit">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Combination/src/Arrangement.java" afterPath="$PROJECT_DIR$/Combination/src/Arrangement.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Combination/src/BinaryGeneration.java" afterPath="$PROJECT_DIR$/Combination/src/BinaryGeneration.java" />
     </list>
+    <list id="93fefd4e-cb1a-4dc6-8725-e94fb5dd2e4f" name="Failed commit: Default" comment="Java Commit" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,8 +62,8 @@
       <file leaf-file-name="BinaryGeneration.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Combination/src/BinaryGeneration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="26" lean-forward="true" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+            <state relative-caret-position="476">
+              <caret line="28" column="16" lean-forward="false" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -114,8 +108,8 @@
         <option value="$PROJECT_DIR$/Combination/src/Utilities.java" />
         <option value="$PROJECT_DIR$/Combination/src/Combination.java" />
         <option value="$PROJECT_DIR$/Combination/src/Permutation.java" />
-        <option value="$PROJECT_DIR$/Combination/src/BinaryGeneration.java" />
         <option value="$PROJECT_DIR$/Combination/src/Arrangement.java" />
+        <option value="$PROJECT_DIR$/Combination/src/BinaryGeneration.java" />
       </list>
     </option>
   </component>
@@ -150,6 +144,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -164,9 +161,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -660,6 +654,7 @@
       <workItem from="1494253023865" duration="833000" />
       <workItem from="1494254084040" duration="426000" />
       <workItem from="1494254528331" duration="237000" />
+      <workItem from="1494255122353" duration="186000" />
     </task>
     <task id="LOCAL-00001" summary="Ok">
       <created>1494208177798</created>
@@ -675,11 +670,18 @@
       <option name="project" value="LOCAL" />
       <updated>1494208196361</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Java Commit 10:00">
+      <created>1494255166821</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1494255166821</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7557000" />
+    <option name="totallyTimeSpent" value="7743000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -691,7 +693,7 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.08385417" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3192389" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -756,7 +758,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ok" />
     <MESSAGE value="Java Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Commit" />
+    <MESSAGE value="Java Commit 10:00" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Commit 10:00" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1162,8 +1165,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Combination/src/BinaryGeneration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="26" lean-forward="true" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+        <state relative-caret-position="476">
+          <caret line="28" column="16" lean-forward="false" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
           <folding />
         </state>
       </provider>
