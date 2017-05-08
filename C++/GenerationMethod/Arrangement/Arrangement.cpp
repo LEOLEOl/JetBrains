@@ -212,6 +212,5 @@ int main()
 {
     doCharArrangement(5, 3);
     //doMain();
-    // Git Clion
-    // Git Clion
+    // Git Commit CLion 10:00
 }
