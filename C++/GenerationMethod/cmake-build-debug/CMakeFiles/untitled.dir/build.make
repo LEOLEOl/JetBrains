@@ -56,38 +56,38 @@ include CMakeFiles/untitled.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/untitled.dir/flags.make
 
-CMakeFiles/untitled.dir/Arrangement/Arrangement.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/Arrangement/Arrangement.cpp.obj: ../Arrangement/Arrangement.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\it_cs\JetBrains\C++\GenerationMethod\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled.dir/Arrangement/Arrangement.cpp.obj"
-	C:\PROGRA~2\CODEBL~1\MinGW\bin\G__~1.EXE   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Arrangement\Arrangement.cpp.obj -c E:\it_cs\JetBrains\C++\GenerationMethod\Arrangement\Arrangement.cpp
+CMakeFiles/untitled.dir/RepeatedArrangement/RepeatedArrangement.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/RepeatedArrangement/RepeatedArrangement.cpp.obj: ../RepeatedArrangement/RepeatedArrangement.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\it_cs\JetBrains\C++\GenerationMethod\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled.dir/RepeatedArrangement/RepeatedArrangement.cpp.obj"
+	C:\PROGRA~2\CODEBL~1\MinGW\bin\G__~1.EXE   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\RepeatedArrangement\RepeatedArrangement.cpp.obj -c E:\it_cs\JetBrains\C++\GenerationMethod\RepeatedArrangement\RepeatedArrangement.cpp
 
-CMakeFiles/untitled.dir/Arrangement/Arrangement.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Arrangement/Arrangement.cpp.i"
-	C:\PROGRA~2\CODEBL~1\MinGW\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\it_cs\JetBrains\C++\GenerationMethod\Arrangement\Arrangement.cpp > CMakeFiles\untitled.dir\Arrangement\Arrangement.cpp.i
+CMakeFiles/untitled.dir/RepeatedArrangement/RepeatedArrangement.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/RepeatedArrangement/RepeatedArrangement.cpp.i"
+	C:\PROGRA~2\CODEBL~1\MinGW\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\it_cs\JetBrains\C++\GenerationMethod\RepeatedArrangement\RepeatedArrangement.cpp > CMakeFiles\untitled.dir\RepeatedArrangement\RepeatedArrangement.cpp.i
 
-CMakeFiles/untitled.dir/Arrangement/Arrangement.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Arrangement/Arrangement.cpp.s"
-	C:\PROGRA~2\CODEBL~1\MinGW\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\it_cs\JetBrains\C++\GenerationMethod\Arrangement\Arrangement.cpp -o CMakeFiles\untitled.dir\Arrangement\Arrangement.cpp.s
+CMakeFiles/untitled.dir/RepeatedArrangement/RepeatedArrangement.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/RepeatedArrangement/RepeatedArrangement.cpp.s"
+	C:\PROGRA~2\CODEBL~1\MinGW\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\it_cs\JetBrains\C++\GenerationMethod\RepeatedArrangement\RepeatedArrangement.cpp -o CMakeFiles\untitled.dir\RepeatedArrangement\RepeatedArrangement.cpp.s
 
-CMakeFiles/untitled.dir/Arrangement/Arrangement.cpp.obj.requires:
+CMakeFiles/untitled.dir/RepeatedArrangement/RepeatedArrangement.cpp.obj.requires:
 
-.PHONY : CMakeFiles/untitled.dir/Arrangement/Arrangement.cpp.obj.requires
+.PHONY : CMakeFiles/untitled.dir/RepeatedArrangement/RepeatedArrangement.cpp.obj.requires
 
-CMakeFiles/untitled.dir/Arrangement/Arrangement.cpp.obj.provides: CMakeFiles/untitled.dir/Arrangement/Arrangement.cpp.obj.requires
-	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Arrangement/Arrangement.cpp.obj.provides.build
-.PHONY : CMakeFiles/untitled.dir/Arrangement/Arrangement.cpp.obj.provides
+CMakeFiles/untitled.dir/RepeatedArrangement/RepeatedArrangement.cpp.obj.provides: CMakeFiles/untitled.dir/RepeatedArrangement/RepeatedArrangement.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/RepeatedArrangement/RepeatedArrangement.cpp.obj.provides.build
+.PHONY : CMakeFiles/untitled.dir/RepeatedArrangement/RepeatedArrangement.cpp.obj.provides
 
-CMakeFiles/untitled.dir/Arrangement/Arrangement.cpp.obj.provides.build: CMakeFiles/untitled.dir/Arrangement/Arrangement.cpp.obj
+CMakeFiles/untitled.dir/RepeatedArrangement/RepeatedArrangement.cpp.obj.provides.build: CMakeFiles/untitled.dir/RepeatedArrangement/RepeatedArrangement.cpp.obj
 
 
 # Object files for target untitled
 untitled_OBJECTS = \
-"CMakeFiles/untitled.dir/Arrangement/Arrangement.cpp.obj"
+"CMakeFiles/untitled.dir/RepeatedArrangement/RepeatedArrangement.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
 
-untitled.exe: CMakeFiles/untitled.dir/Arrangement/Arrangement.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/RepeatedArrangement/RepeatedArrangement.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
@@ -100,7 +100,7 @@ CMakeFiles/untitled.dir/build: untitled.exe
 
 .PHONY : CMakeFiles/untitled.dir/build
 
-CMakeFiles/untitled.dir/requires: CMakeFiles/untitled.dir/Arrangement/Arrangement.cpp.obj.requires
+CMakeFiles/untitled.dir/requires: CMakeFiles/untitled.dir/RepeatedArrangement/RepeatedArrangement.cpp.obj.requires
 
 .PHONY : CMakeFiles/untitled.dir/requires
 

@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-E:/it_cs/JetBrains/C++/GenerationMethod/Arrangement/Arrangement.cpp
-stdio.h
--
+E:/it_cs/JetBrains/C++/GenerationMethod/RepeatedArrangement/RepeatedArrangement.cpp
 iostream
+-
+cstdlib
 -
 cstring
 -
-cmath
+stdio.h
 -
 

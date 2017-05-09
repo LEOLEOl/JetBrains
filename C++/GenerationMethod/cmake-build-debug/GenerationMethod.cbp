@@ -86,7 +86,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="E:/it_cs/JetBrains/C++/GenerationMethod/Arrangement/Arrangement.cpp">
+		<Unit filename="E:/it_cs/JetBrains/C++/GenerationMethod/RepeatedArrangement/RepeatedArrangement.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="E:/it_cs/JetBrains/C++/GenerationMethod/CMakeLists.txt">

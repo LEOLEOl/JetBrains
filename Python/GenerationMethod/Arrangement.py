@@ -27,5 +27,5 @@ def do_arrangement():
         print('\n')
         temp = get_next_arrangement(data, x, n, k)
 
-do_arrangement()
+#do_arrangement()
 # Python 10:00

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "E:/it_cs/JetBrains/C++/GenerationMethod/Arrangement/Arrangement.cpp" "E:/it_cs/JetBrains/C++/GenerationMethod/cmake-build-debug/CMakeFiles/untitled.dir/Arrangement/Arrangement.cpp.obj"
+  "E:/it_cs/JetBrains/C++/GenerationMethod/RepeatedArrangement/RepeatedArrangement.cpp" "E:/it_cs/JetBrains/C++/GenerationMethod/cmake-build-debug/CMakeFiles/untitled.dir/RepeatedArrangement/RepeatedArrangement.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

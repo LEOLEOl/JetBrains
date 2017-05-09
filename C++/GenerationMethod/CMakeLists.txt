@@ -3,5 +3,5 @@ project(GenerationMethod)
 
 set(CMAKE_CXX_STANDARD 11)
 
-set(SOURCE_FILES Arrangement/Arrangement.cpp)
+set(SOURCE_FILES RepeatedArrangement/RepeatedArrangement.cpp)
 add_executable(untitled ${SOURCE_FILES})
