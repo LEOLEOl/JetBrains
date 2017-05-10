@@ -2,7 +2,6 @@ import numpy as np
 from printf import *
 
 
-
 def next_repeated_arrangement(x, n, k):
     i = k
     while i > 0 and x[i] == n: i = i-1
@@ -38,4 +37,4 @@ def do_repeated_arrangement(n, k):
         print('\n')
         temp = get_next_repeated_arrangement(data, x, n, k)
 
-do_repeated_arrangement(3, 5)
+#do_repeated_arrangement(3, 5)
