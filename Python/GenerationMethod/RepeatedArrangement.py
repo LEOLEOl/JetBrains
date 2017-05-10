@@ -22,9 +22,7 @@ def get_next_repeated_arrangement(data, x, n, k):
     return ret
 
 
-def do_repeated_arrangement():
-    n, k = 5, 3
-
+def do_repeated_arrangement(n, k):
     x = np.zeros(k+1)
     data = np.zeros(n+1)
     for i in range(1, k+1): x[i] = 1
@@ -40,4 +38,4 @@ def do_repeated_arrangement():
         print('\n')
         temp = get_next_repeated_arrangement(data, x, n, k)
 
-do_repeated_arrangement()
+do_repeated_arrangement(3, 5)
