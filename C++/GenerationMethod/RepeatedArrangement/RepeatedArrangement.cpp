@@ -82,19 +82,51 @@ void doIntRepeatedArrangement(int n, int k) // data là cấu hình hiện tại
     for (int i = 1; i <= k; ++i) x[i] = 1;// Cau hinh khoi tao
     for (int i = 1; i <= n; ++i) data[i] = i;
 
-    int* temp = new int[k + 1];
-    memcpy(temp + 1, data + 1, k * sizeof(int));
-
     int c = 0;
-    while (temp != NULL) {
-        //printData(temp, k);
+    while (x != NULL) {
         printf("%d. ", ++c);
         for (int i = 1; i <= k; ++i) printf("%d ", data[x[i]]);
         cout << endl;
-        delete[] temp;
-        temp = getNextRepeatedArrangement(data, x, n, k);
+        x = nextRepeatedArrangement(x, n, k);
     }
 }
+
+void bruteforce_attack(int type, int sizePass)
+{
+    int* x = new int[100];
+    char* data = new char[100];
+
+    switch (type) {
+        case 1: // 01..9
+
+            break;
+        case 2: // ab..z
+
+            break;
+        case 3: // AB..Z
+
+            break;
+        case 4: // ab..z01..9
+
+            break;
+        case 5: // AB..Z01..9
+
+            break;
+        case 6: // AB..Zab..z
+
+            break;
+        case 7:
+        default: // AB..Zab..z01..9
+
+            break;
+    }
+
+    while (x != NULL) {
+        char* s = "";
+    }
+}
+
+
 
 int main()
 {
